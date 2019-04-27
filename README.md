@@ -1,4 +1,5 @@
 # For Organizers
+![cover](images/cover.jpg "cover")
 
 ## Management
 - We usually communicate on [Facebook Group](https://www.facebook.com/groups/DevCTokyo/)
@@ -12,5 +13,8 @@
 
 ## Links
 - Facebook Group：https://www.facebook.com/groups/DevCTokyo/
-- connpass：https://facebookdevelopercircle.connpass.com/
 - Github:https://github.com/devctokyo
+- Twitter:[#DevCTokyo](https://twitter.com/search?q=%23DevCTokyo&src=typd)
+- connpass：https://facebookdevelopercircle.connpass.com/
+- Tech Play:https://techplay.jp/community/devctokyo
+- Meetup:https://www.meetup.com/ja-JP/facebookdevelopercirclejapan/
